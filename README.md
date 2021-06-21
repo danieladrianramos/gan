@@ -4,7 +4,7 @@ The script `index.js` uses a local api to perform various operations on a set of
 
 Run `npm install` and `npm run start` to start the script.
 
-Your api can load the required data from [here](addresses.json).
+Your api can load the required data from [here](https://github.com/gandevops/backend-code-challenge/blob/master/addresses.json).
 
 In the distance calculations you can assume the earth is a perfect sphere and has a radius is 6371 km.
 
