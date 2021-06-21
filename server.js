@@ -17,9 +17,8 @@ const data = fs.readFileSync('addresses.json');
 const db = JSON.parse(data);
 
 
-// OTHERS
+// MATH
 const haversineCalculator = require('haversine-calculator')
-const http = require('http');
 
 
 const router = express.Router();
